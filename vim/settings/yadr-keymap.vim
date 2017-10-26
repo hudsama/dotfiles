@@ -170,3 +170,10 @@ map <silent> ,hp :!open -a Safari %<CR><CR>
 " :cp)
 nnoremap <silent> <C-x> :cn<CR>
 nnoremap <silent> <C-z> :cp<CR>
+
+" ruby/rails pry debbuger
+" iab xpry require 'pry'; binding.pry;
+iab xpry binding.pry
+
+" elixir pry
+iab epry require IEx; IEx.pry;
