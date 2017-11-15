@@ -1,0 +1,6 @@
+" Vim racer
+Bundle 'racer-rust/vim-racer'
+
+" Rust.vim
+Bundle 'rust-lang/rust.vim'
+

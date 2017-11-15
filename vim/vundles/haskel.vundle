@@ -1,0 +1,5 @@
+"" Haskell Bundle
+Bundle 'eagletmt/neco-ghc'
+Bundle 'dag/vim2hs'
+Bundle 'pbrisbin/vim-syntax-shakespeare'
+

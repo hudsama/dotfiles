@@ -1,0 +1,4 @@
+"" Python Bundle
+Bundle 'davidhalter/jedi-vim'
+Bundle 'raimon49/requirements.txt.vim', {'for': 'requirements'}
+
