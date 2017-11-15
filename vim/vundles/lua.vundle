@@ -1,4 +1,4 @@
 "" Lua Bundle
-Plug 'xolox/vim-lua-ftplugin'
-Plug 'xolox/vim-lua-inspect'
+Bundle 'xolox/vim-lua-ftplugin'
+Bundle 'xolox/vim-lua-inspect'
 

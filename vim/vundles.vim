@@ -27,6 +27,15 @@ runtime appearance.vundle
 runtime textobjects.vundle
 runtime search.vundle
 runtime project.vundle
+runtime c.vundle
+runtime elixir.vundle
+runtime erlang.vundle
+runtime go.vundle
+runtime haskell.vundle
+runtime html.vundle
+runtime lua.vundle
+runtime python.vundle
+runtime rust.vundle
 runtime vim-improvements.vundle
 
 " The plugins listed in ~/.vim/.vundles.local will be added here to
